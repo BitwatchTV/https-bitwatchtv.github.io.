@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BitWatchTV – Earn While Watching</title>
+
+<style>
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background: #0d0d0d;
+        color: white;
+        text-align: center;
+    }
+
+    header {
+        padding: 40px 20px;
+        background: linear-gradient(135deg, #1a1a1a, #0d47a1);
+    }
+
+    h1 {
+        font-size: 42px;
+        margin-bottom: 10px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        color: #4da3ff;
+    }
+
+    p.subtitle {
+        font-size: 18px;
+        opacity: 0.9;
+    }
+
+    .section {
+        padding: 40px 20px;
+    }
+
+    .card {
+        background: #111;
+        margin: 20px auto;
+        padding: 20px;
+        width: 90%;
+        max-width: 500px;
+        border-radius: 12px;
+        border: 1px solid #1f3fbf;
+        box-shadow: 0 0 15px rgba(0, 122, 255, 0.3);
+    }
+
+    .card h2 {
+        color: #4da3ff;
+    }
+
+    .footer {
+        background: #000;
+        padding: 20px;
+        margin-top: 20px;
+        font-size: 14px;
+        opacity: 0.7;
+    }
+</style>
+
+</head>
+<body>
+
+<header>
+    <h1>BitWatchTV</h1>
+    <p class="subtitle">Earn Infinity While Watching Movies</p>
+</header>
+
+<div class="section">
+    <div class="card">
+        <h2>🔥 Unlimited Earnings</h2>
+        <p>Kumita ng walang limit kahit strong leg lang!  
+        No pairing • No matching • PURE INFINITY EARNINGS.</p>
+    </div>
+
+    <div class="card">
+        <h2>🎬 Popular Movies</h2>
+        <p>Lahat mahilig manood ng movies — kaya perfect ang BitWatchTV para sa lahat.</p>
+    </div>
+
+    <div class="card">
+        <h2>💰 Subscription</h2>
+        <p>Only ₱100/month — Watch & Earn!</p>
+    </div>
+
+    <div class="card">
+        <h2>🪙 BitWatchTV Token (BTW)</h2>
+        <p>Soon to launch! May gamit sa platform — hindi hype, may utility!</p>
+    </div>
+
+</div>
+
+<div class="footer">
+    © 2025 BitWatchTV • Earn While Watching
+</div>
+
+</body>
+</html>
